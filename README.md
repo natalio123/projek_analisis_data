@@ -16,11 +16,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
 - File `all_data.csv` yang berisi data yang akan dianalisis.
 
 ## Instalasi
-1. Clone repositori ini ke komputer Anda:
-   ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
-2. Buat dan aktifkan virtual environment (opsional tetapi disarankan):
+1. Buat dan aktifkan virtual environment (opsional tetapi disarankan):
    python -m venv venv
    ```bash
     Aktifkan virtual environment
@@ -28,7 +24,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda memiliki:
     .\venv\Scripts\activate
     Linux/macOS
     source venv/bin/activate
-3. Install dependensi yang diperlukan:
+2. Install dependensi yang diperlukan:
    ```bash
    pip install -r requirements.txt
 ## Penggunaan
